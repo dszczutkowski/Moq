@@ -1,0 +1,11 @@
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\Moq.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\MoqRepositorySample.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\MoqRepositorySample.pdb
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\Moq.pdb
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\bin\Debug\Moq.xml
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\obj\Debug\TestMoqProject.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\TestProject1\obj\Debug\TestProject1.pdb

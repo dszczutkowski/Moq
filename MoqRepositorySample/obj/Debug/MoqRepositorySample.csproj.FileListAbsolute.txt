@@ -1,0 +1,10 @@
+C:\Projects\MoqRepositorySample\MoqRepositorySample\bin\Debug\MoqRepositorySample.dll
+C:\Projects\MoqRepositorySample\MoqRepositorySample\bin\Debug\MoqRepositorySample.pdb
+C:\Projects\MoqRepositorySample\MoqRepositorySample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MoqRepositorySample\MoqRepositorySample\obj\Debug\MoqRepositorySample.dll
+C:\Projects\MoqRepositorySample\MoqRepositorySample\obj\Debug\MoqRepositorySample.pdb
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\MoqRepositorySample\bin\Debug\MoqRepositorySample.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\MoqRepositorySample\bin\Debug\MoqRepositorySample.pdb
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\MoqRepositorySample\obj\Debug\MoqRepositorySample.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\MoqRepositorySample\obj\Debug\MoqRepositorySample.dll
+C:\Users\Dawid\Documents\Visual Studio 2015\Projects\MoqProject\MoqRepositorySample\obj\Debug\MoqRepositorySample.pdb
